@@ -7,4 +7,4 @@ There is a file for each of you in this repo that has a skill testing question i
 * Push the changes.
 * Notify me when you have completed this.
 
-If you get stuck you can ask me, Zohaib, or Will for help.
+If you get stuck you can ask me, Zohaib, or Tim for help.
